@@ -12,7 +12,7 @@ def has_letter_cases(s: str):
  
 
 def find_lowercase_vowel(msg: str):
-    print("hello")
+    print("Hello")
     """
     Return the index of the first lowercase vowel (a, e, i, o, u) in msg, 
     or the length of msg if it does not contain any lowercase vowels.
